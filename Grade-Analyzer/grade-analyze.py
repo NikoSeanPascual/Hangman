@@ -1,5 +1,5 @@
-
 grades = {}
+
 while True:
     print("\n========== STUDENT GRADE ANALYZER ==========\n1. Add student,\n2. View students\n3. Class average\n4. Highest grade\n5. Lowest grade\n6. Exit")
     choice = input("Choose an option: ").lower().strip()
